@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": false,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "multiwebpartsdemo",
+    "libraryId": "933590a7-c076-48db-b530-b0b4a5218c02",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
